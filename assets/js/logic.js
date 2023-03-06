@@ -1,4 +1,4 @@
-let totalTime = 10; // Run quiz for n seconds
+let totalTime = 30; // Run quiz for n seconds
 let penaltyTime = 10; // Penalty for wrong answers
 let timerID;
 let feedbackID;
